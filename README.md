@@ -1,2 +1,5 @@
-# composer-prototype-feedback
-A place for feedback on the new Modulz prototype
+# Prototype feedback
+
+Thanks for trying the new prototype!
+
+To start a discussion or report a bug, [open an issue](https://github.com/modulz/prototype-feedback/issues/new)
